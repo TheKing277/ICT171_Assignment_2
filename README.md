@@ -16,7 +16,11 @@ Description: This project aims to provide a working personal technical website. 
     Configuration: This will be manually configured to deploy the website via accessing the web server, such as Apache2 Web Server.
 
 
+Update 30 MAY 2025
 
+    Deploying VM with Microsoft Azure
+
+    Accessing the host via SSH connection from the local host
 
 
 
